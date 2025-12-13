@@ -1,6 +1,8 @@
 {
   "latestVersion": 7,
   "minimumVersion": 6,
+  "appUrlAndroid": "https://play.google.com/store/apps/details?id=com.supersoldierproject",
+  "appUrlIos": "https://apps.apple.com/us/app/ascend/id6748588437",
   "sponsorData": {
     "sponsorName": "Ascend Fit",
     "bannerId": "v0_ascend",
@@ -38,4 +40,5 @@
     ]
   }
 }
+
 
