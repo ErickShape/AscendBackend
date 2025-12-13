@@ -9,44 +9,33 @@
     "webSite": "https://www.instagram.com/organaperu/",
     "bannerData": [
       {
-        "message": "Hola, estoy interesado en la Aswaganda. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/organaBanner1.jpg"
+        "message": "Hola, estoy interesado en ser SPONSOR de ASCEND. ¿Podrían darme más detalles?",
+        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/ascendBanner1.jpg"
       },
       {
-        "message": "Hola, estoy interesado en el Citrato de magnecio. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/organaBanner2.jpg"
+        "message": "Hola, estoy interesado en ser SPONSOR de ASCEND. ¿Podrían darme más detalles?",
+        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/ascendBanner2.jpg"
       },
       {
-        "message": "Hola, estoy interesado en el Resveratrol. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/organaBanner3.jpg"
-      },
-      {
-        "message": "",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/organaBanner4.jpg"
+        "message": "Hola, estoy interesado en ser SPONSOR de ASCEND. ¿Podrían darme más detalles?",
+        "imageUrl": "https://erickshape.github.io/AscendBackend/bannerImages/ascendBanner3.jpg"
       }
     ],
     
     "rewardedData": [
       {
-        "message": "Hola, estoy interesado en la Miel con propoleo. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/organaRewarded1.jpg"
+        "message": "Hola, estoy interesado en ser SPONSOR de ASCEND. ¿Podrían darme más detalles?",
+        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/ascendRewarded1.jpg"
       },
       {
-        "message": "Hola, estoy interesado en la Sacha Inchi. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/organaRewarded2.jpg"
+        "message": "Hola, estoy interesado en ser SPONSOR de ASCEND. ¿Podrían darme más detalles?",
+        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/ascendRewarded2.jpg"
       },
        {
-        "message": "Hola, estoy interesado en las 7 Semillas. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/organaRewarded3.jpg"
-      },
-       {
-        "message": "Hola, estoy interesado en el café organico. ¿Podrían darme más detalles?",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/organaRewarded4.jpg"
-      },
-       {
-        "message": "",
-        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/organaRewarded5.jpg"
+        "message": "Hola, estoy interesado en ser SPONSOR de ASCEND. ¿Podrían darme más detalles?",
+        "imageUrl": "https://erickshape.github.io/AscendBackend/rewardedImages/ascendRewarded3.jpg"
       }
     ]
   }
 }
+
